@@ -19,6 +19,7 @@ This project is an AI-based Movie Recommendation System built using Python. It u
 1. Clone this repository.
 2. Install the required libraries: `pip install pandas numpy matplotlib seaborn scikit-learn scikit-surprise`
 3. Run the Python script or Jupyter Notebook in your environment.
+
 ⭐ Support
 
 If you found this project helpful, please consider giving it a ⭐ Star on GitHub.
